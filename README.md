@@ -1,6 +1,6 @@
 # TouchSense 📳
 > **Can touch be a language?**
-> *A Swift Student Challenge Distinguished Winner Submission*
+
 
 ![Swift 6](https://img.shields.io/badge/Swift-6.0-orange?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-iOS-blue?style=flat-square)
