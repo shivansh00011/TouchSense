@@ -45,7 +45,9 @@ This project is built as a **Swift App Playground**.
    - *Note:* If run on a Simulator or iPad, the app will show a "Haptics Unavailable" warning banner.
 
 ## 📸 Screenshots
-<img width="200" height="1278" alt="IMG_1041" src="https://github.com/user-attachments/assets/9e6459fe-cc87-4c40-8813-77995c23cdc8" />  <img width="200" height="1278" alt="IMG_1042" src="https://github.com/user-attachments/assets/6459d870-b7e6-4c4c-b4e4-e1f2f5cd38d7" />
+<img width="200" height="1278" alt="IMG_1041" src="https://github.com/user-attachments/assets/9e6459fe-cc87-4c40-8813-77995c23cdc8" />    <img width="200" height="1278" alt="IMG_1042" src="https://github.com/user-attachments/assets/6459d870-b7e6-4c4c-b4e4-e1f2f5cd38d7" />     <img width="200" height="1278" alt="IMG_1043" src="https://github.com/user-attachments/assets/6e5999c5-3a74-44a5-a70f-0f320be982b6" />        <img width="200" height="1278" alt="IMG_1044" src="https://github.com/user-attachments/assets/1f63e6c6-1d61-4e21-ab7e-ebb7ec908ccc" />
+
+
 
 
 
